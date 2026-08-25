@@ -2,11 +2,11 @@
 
 > **Engineering is the art of making decisions you can defend.**
 
-**Welcome to your design portfolio.**
-
-This site is the working record of your design decisions across MEGR 2156. Every entry documents your process — what you designed, how you designed it for the specific technology you were using, and what you learned from building it. Engineering documentation is a skill developed through deliberate practice. Each lab is an opportunity to improve the precision, clarity, and professional quality of how you record your work. As you progress through the semester your design capability will grow alongside your documentation — this portfolio is the record of that journey.
+**Welcome to my design portfolio.**
 
 ---
+Hello my name is Alexander Alvarado and this is my lab design portfolio for my MEGR 3dLab course. It is a record of my projects and my work, and how I continue to learn and grow throughout the class.
+
 
 ## The Arc of This Course
 
