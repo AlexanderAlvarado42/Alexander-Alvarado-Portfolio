@@ -1,9 +1,12 @@
 # MEGR 2156 — Design Projects I Laboratory
 
 > **Engineering is the art of making decisions you can defend.**
+<img width="1000" height="250" alt="image" src="https://github.com/user-attachments/assets/98e1b65a-3f32-4774-9cba-566818e40bad" />
+
+
+
 
 **Welcome to my design portfolio.**
-
 ---
 Hello my name is Alexander Alvarado and this is my lab design portfolio for my MEGR 3dLab course. It is a record of my projects and my work, and how I continue to learn and grow throughout the class.
 
