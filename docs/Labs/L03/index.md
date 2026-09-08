@@ -3,6 +3,14 @@ Design
 
 I wanted to design something in Fusion as I am not very used to it due to mainly using Creo. I wanted to play around with different features such as extrusions, cuts, holes, and filets. 
 
+Research
+
+| Infill Pattern | Geometry & Why It Is Used |
+|---|---|
+| Tri-Hexagonal | Combines triangles and hexagons to create a rigid structure. It is used when higher strength and stiffness are needed while keeping the part relatively lightweight. |
+| Zigzag | Uses connected diagonal lines that form a back-and-forth pattern. It is used to reduce printing time and material while providing moderate strength and flexibility. |
+| Cubic | Uses interconnected lines that form a three-dimensional cube-like structure. It is used when strength is needed in multiple directions. |
+
 |  |  |
 |----------|-------------|
 | <img width="300" height="200" alt="Screenshot 2026-09-08 104526" src="https://github.com/user-attachments/assets/10438fb5-34d7-47be-9acf-2e808c43a88d" />   | Started with sketching a rectangle on the xy plane 1.4 in by .75 in |
@@ -33,3 +41,17 @@ Print
 | 
 https://github.com/user-attachments/assets/163b8e21-626f-48aa-882f-fc95354c0261
     | short video of printing process   |
+
+Lessons learned
+
+I learned a lot through this lab, different infills and their uses, 
+
+
+
+Resources
+
+https://help.prusa3d.com/article/infill-patterns_177130
+chatgpt
+
+
+
