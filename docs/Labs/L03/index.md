@@ -1,13 +1,10 @@
-# A3 – [Topic]
+Design
 
-## Objective
+I wanted to design something in Fusion as I am not very used to it due to mainly using Creo. I wanted to play around with different features such as extrusions, cuts, holes, and filets. 
 
-
-## Analyze
-
-
-## Decide
-
-
-## Communicate
-
+| Category | Description |
+|----------|-------------|
+| Design   | Additive manufacturing |
+| Material | PLA plastic |
+| Process  | FDM printing |
+| Result   | Functional prototype |
