@@ -39,7 +39,6 @@ Print
 | <img width="200" height="300" alt="IMG_1564" src="https://github.com/user-attachments/assets/47e77c45-3a7f-4a59-b6f8-e6f25be958c6" />    | Around the midway point, you can see the two holes being made    |
 |<img width="200" height="300" alt="IMG_1568" src="https://github.com/user-attachments/assets/312d7b38-45bb-4a9a-b1c7-fcb8af64590f" />    | Done printing    |
 | 
-https://github.com/user-attachments/assets/163b8e21-626f-48aa-882f-fc95354c0261
     | short video of printing process   |
 
 Lessons learned
